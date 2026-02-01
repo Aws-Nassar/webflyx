@@ -11,4 +11,4 @@ The course covers essential Git concepts, including:
 - Git best practices
 
 ## Certificate
-I have successfully completed the course and earned the certificate, which can be viewed [here]([YOUR_CERTIFICATE_LINK_HERE](https://www.boot.dev/certificates/35ad3745-e684-4d67-865f-612474ae9d8c)).
+I have successfully completed the course and earned the certificate, which can be viewed [here](https://www.boot.dev/certificates/35ad3745-e684-4d67-865f-612474ae9d8c)).
